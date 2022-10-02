@@ -7,5 +7,5 @@ export default function phoneFormat(phone) {
 
 //  const test =  phoneFormat(`+860000000000`);
 //  console.log(test);
-//'(\+7|8)(/[^\d]+/g, '')'
-//'(/^8\s/, '7')'
+// '(\+7|8)(/[^\d]+/g, '')'
+// '(/^8\s/, '7')'
